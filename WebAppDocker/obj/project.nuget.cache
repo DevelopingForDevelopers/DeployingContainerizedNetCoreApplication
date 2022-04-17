@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nwFdTkpa2VZK+Rz5aUikisDFJPyFusTguccwGg+zKPQ4QoKABY+SFl9LlJTRkRXO71Fn+mrMJF4UYNznFMBhXw==",
+  "dgSpecHash": "rV7+drZG5tOe1HgojSCJ9y7ILxIl9qv+068/IsKIE+iBp2egkrmTvyxzgHIemilTnGFrDNf/7ej5JZWJliYOWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jesus\\OneDrive\\Imágenes\\Blog\\Codigo\\DeployingContainerizedNetCoreApp\\WebAppDocker\\WebAppDocker\\WebAppDocker.csproj",
+  "projectFilePath": "C:\\Users\\jesus\\OneDrive\\Imágenes\\Blog\\Codigo\\DeployingContainerizedNetCoreApplication\\WebAppDocker\\WebAppDocker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jesus\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
   ],

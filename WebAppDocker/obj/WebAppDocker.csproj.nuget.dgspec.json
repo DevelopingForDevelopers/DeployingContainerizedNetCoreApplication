@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jesus\\OneDrive\\Imágenes\\Blog\\Codigo\\DeployingContainerizedNetCoreApp\\WebAppDocker\\WebAppDocker\\WebAppDocker.csproj": {}
+    "C:\\Users\\jesus\\OneDrive\\Imágenes\\Blog\\Codigo\\DeployingContainerizedNetCoreApplication\\WebAppDocker\\WebAppDocker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jesus\\OneDrive\\Imágenes\\Blog\\Codigo\\DeployingContainerizedNetCoreApp\\WebAppDocker\\WebAppDocker\\WebAppDocker.csproj": {
+    "C:\\Users\\jesus\\OneDrive\\Imágenes\\Blog\\Codigo\\DeployingContainerizedNetCoreApplication\\WebAppDocker\\WebAppDocker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jesus\\OneDrive\\Imágenes\\Blog\\Codigo\\DeployingContainerizedNetCoreApp\\WebAppDocker\\WebAppDocker\\WebAppDocker.csproj",
+        "projectUniqueName": "C:\\Users\\jesus\\OneDrive\\Imágenes\\Blog\\Codigo\\DeployingContainerizedNetCoreApplication\\WebAppDocker\\WebAppDocker.csproj",
         "projectName": "WebAppDocker",
-        "projectPath": "C:\\Users\\jesus\\OneDrive\\Imágenes\\Blog\\Codigo\\DeployingContainerizedNetCoreApp\\WebAppDocker\\WebAppDocker\\WebAppDocker.csproj",
+        "projectPath": "C:\\Users\\jesus\\OneDrive\\Imágenes\\Blog\\Codigo\\DeployingContainerizedNetCoreApplication\\WebAppDocker\\WebAppDocker.csproj",
         "packagesPath": "C:\\Users\\jesus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jesus\\OneDrive\\Imágenes\\Blog\\Codigo\\DeployingContainerizedNetCoreApp\\WebAppDocker\\WebAppDocker\\obj\\",
+        "outputPath": "C:\\Users\\jesus\\OneDrive\\Imágenes\\Blog\\Codigo\\DeployingContainerizedNetCoreApplication\\WebAppDocker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
